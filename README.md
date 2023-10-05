@@ -4,6 +4,8 @@ This repository contains a comprehensive exercise set covering sections 3 to 9 o
 
 This iteration might feature alterations compared to the initial course code, including modifications in file names, functions, or variables.
 
+The project was created using the ECMAScript Modules (ESM) system as it aligns with the latest JavaScript programming standards and represents an enhancement over the original code.
+
 - [Udemy Instructor](https://www.udemy.com/user/maximilian-schwarzmuller/)
 - [Udemy Course](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
@@ -15,13 +17,19 @@ This iteration might feature alterations compared to the initial course code, in
 
 ### Installation
 
-1. Clone the repository to your local machine
+1. Clone the repo
 
 ```sh
 git clone https://github.com/Helekin/nodejs-01-easy-expressjs.git
 ```
 
-2. Run the application in development mode
+2. Install dependencies
+
+```sh
+npm install
+```
+
+3. Run the application in development mode
 
 ```sh
 npm run dev
